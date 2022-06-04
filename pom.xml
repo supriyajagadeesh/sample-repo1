@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>com.qt.examples</groupId>
-  <artifactId>sample-app</artifactId>
+  <artifactId>sampleapp</artifactId>
   <version>1.0</version>
   
   <properties>
