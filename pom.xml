@@ -6,8 +6,4 @@
     <groupId>com.mycompany.applicationname</groupId>
     <artifactId>application-mvc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-
-    <properties>
-      <spring.version>3.0.3.RELEASE</spring.version>
-    </properties>
 </project> 
